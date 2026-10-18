@@ -1,0 +1,129 @@
+*{
+    box-sizing: border-box;
+}
+
+.section1{
+    background-color: rgb(43, 43, 199);
+    margin: 20px auto;
+    width: 70%;
+    color: white;
+    text-align: center;
+    border: solid 5px  rgb(43, 43, 199) ;
+    border-radius: 20px;
+    padding: 40px  20px
+}
+.links{
+    background-color: gray;
+    border: none;
+    border-radius: 30px;
+    color: azure;
+    cursor: pointer;
+    padding: 12px 20px
+}
+.space{
+    padding: 15px 20px;
+}
+
+.section2{
+    background-color: whitesmoke;
+    margin: 20px auto;
+    width: 70%;
+    color: black;
+    text-align: center;
+    border: solid 5px whitesmoke ;
+    border-radius: 20px;
+    padding: 35px;
+}
+.text{
+    text-align: left;
+    padding: 10px;
+}
+.garally{
+    width:90%;
+    float: right;
+    padding: 10px;
+
+}
+.section2 img{
+    width: 100px;
+    border-radius: 50px;
+}
+span{
+    color: blue;
+    font-weight: bold;
+}
+.section2 button{
+    background-color: blue;
+    color: white;
+    border: none;
+    padding: 15px  30px;
+    border-radius: 10px;
+    cursor: pointer;
+}
+
+.section3{
+    background-color: whitesmoke;
+    margin: 20px auto;
+    width: 70%;
+    color: black;
+    text-align: center;
+    border: solid 20px whitesmoke ;
+    border-radius: 20px;
+    padding: 20px;
+}  
+.card1{
+    width: 25%;
+    float: left;
+    padding: 10px;
+}
+
+.clear-fix{
+    clear: both;
+}
+.section4{
+    background-color: whitesmoke;
+    margin: 20px auto;
+    width: 70%;
+    color: black;
+    text-align: center;
+    border: solid 20px whitesmoke ;
+    border-radius: 20px;
+    padding: 20px;
+}
+.section4 img{
+    width: 100px;
+    border: solid  15px  white;
+}
+.text{
+    text-align: left;
+    padding: 10px;
+}
+.cart1{
+    width:85%;
+    float: right;
+    padding: 10px;
+}
+.section5{
+    background-color: rgb(43, 43, 199);
+    margin: 20px auto;
+    width: 70%;
+    color: white;
+    text-align: left;
+    border: solid 5px  rgb(43, 43, 199) ;
+    border-radius: 20px;
+    padding: 40px  20px;
+}
+.card{
+    background-color: rgb(9, 9, 34);
+    margin: 20px auto;
+    width: 70%;
+    color: white;
+    text-align: center;
+    border: solid 5px  rgb(9, 9, 43) ;
+    border-radius: 20px;
+    padding: 20px;
+}
+
+
+
+
